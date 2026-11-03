@@ -17,9 +17,11 @@ Python, TypeScript, C++.
 - **Order Radar / Chat Monitor / Price Monitor** — monitors over chats and prices: new orders, leads and price moves, reported when they happen. *(private)*
 - **gh-radar** — new console-game recompilations from the GitHub Search API and Reddit feeds, scored and delivered as a digest. *(private)*
 
-#### 📊 Data & prediction markets
+#### 📊 Polymarket desk
 
-- **Polymarket Desk** — analysis desk for prediction markets: resolution rules, fair probability, edge after fees and spread, term curve, order book microstructure, red-team pass, paper journal. *(private)*
+- **Desk** — read-only web desk over the public Polymarket APIs: resolution rules, fair probability, edge after fees and spread, term curve, order book microstructure, red-team pass, paper journal. React and Hono on Cloudflare Workers, Russian interface. *(not on GitHub yet)*
+- **polyx** — the same valuation gates as a Telegram scanner for geopolitical markets: up to three signals per scan, explicit EV math, quarter-Kelly sizing capped at 10 % of bankroll, execution stays manual. *(private)*
+- **polytracker** — Telegram alerts on buys and sells of chosen wallets, from the public Data API. *(private)*
 
 #### 🧩 Assistants for clients
 
