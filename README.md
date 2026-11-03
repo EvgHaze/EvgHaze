@@ -19,7 +19,7 @@ Python, TypeScript, C++.
 
 #### 📊 Prediction markets
 
-- **Polyx** — read-only desk over the public Polymarket APIs: resolution rules, fair probability, edge after fees and spread, term curve, order book microstructure, red-team pass, paper journal. React and Hono on Cloudflare Workers, Russian interface. *(not on GitHub yet)*
+- **Polyx** — answers one question about a Polymarket contract: is it mispriced, and by how much. It reads the resolution rules and flags a change mid-market, turns its own probability into an edge after fees and spread, and prints the stake a quarter-Kelly allows. No keys, no orders: trades stay on paper until a strategy has out-of-sample numbers behind it. React and Hono on Cloudflare Workers, Russian interface. *(not on GitHub yet)*
 
 #### 🧩 Assistants for clients
 
