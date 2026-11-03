@@ -26,7 +26,7 @@ Python and TypeScript most days, C++ when code has to run on the machine it ship
 - **Document assistant** — answers staff and customer questions from the price lists, regulations and internal policy a business already has. It asks to clarify when it did not understand, passes a question to a person when nothing in those pages covers it, and counts how much was resolved alone. FastAPI, Russian and Spanish. *(private)*
 - **Booking bot** — appointment bot for a salon or a self-employed master: services, working days and hours set with buttons, no commands; the client books in three clicks from a personal link, with no public catalogue. Week grid, day off in one tap, schedule templates. *(private)*
 
-#### 🎮 Reverse engineering & native ports
+#### 🎮 Reverse engineering & game ports
 
 - **[GTA: Vice City Stories — native macOS arm64 port](https://github.com/gothamor/gta-vcs-recomp/pull/30)** — Apple clang + ThinLTO, MoltenVK backend, profiler, PGO. +923 / −82, upstream pull request open.
 - **[gta-vcs-recomp](https://github.com/EvgHaze/gta-vcs-recomp)** — my fork; the `macos-arm64` branch holds it.
