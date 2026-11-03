@@ -2,7 +2,7 @@
 
 I build Telegram bots, search and data pipelines, customer-facing assistants, and native ports of console games.
 
-Python and TypeScript most days, C++ when code has to run on the machine it ships to.
+Python, TypeScript, C++.
 
 ---
 
