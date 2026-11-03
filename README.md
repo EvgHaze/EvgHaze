@@ -20,8 +20,6 @@ Python, TypeScript, C++.
 #### 📊 Polymarket desk
 
 - **Desk** — read-only web desk over the public Polymarket APIs: resolution rules, fair probability, edge after fees and spread, term curve, order book microstructure, red-team pass, paper journal. React and Hono on Cloudflare Workers, Russian interface. *(not on GitHub yet)*
-- **polyx** — scanner for geopolitical markets: up to three signals per scan, explicit EV math, quarter-Kelly sizing capped at 10 % of bankroll, execution stays manual. Frozen; its valuation gates and position tracking move into the desk. *(frozen, private)*
-- **polytracker** — alerts on buys and sells of chosen wallets through the public Data API. Frozen; the feed moves into the desk. *(frozen, private)*
 
 #### 🧩 Assistants for clients
 
