@@ -46,4 +46,7 @@ Most of the list is private: work done for a business stays off GitHub, and a ga
 
 ### 🤝 How I work
 
-Everything here is built to run without me: it writes a log, sends one message when something changed, stays quiet otherwise.
+- Nothing spends money or trades on its own. No exchange keys in the code: the tool shows the math, the position and the cap, a person presses the button.
+- Game files and client documents never end up in a repository. A port asks for your own disc, an assistant answers only from the pages it was given and passes on what those pages do not cover.
+- The numbers written here are measured, not estimated: +923 / −82 is the diff of the open pull request, and the assistant's ten control questions were actually run, five of them in Spanish.
+- A project that stops paying for its upkeep gets frozen with a written reason instead of being left half-alive.
